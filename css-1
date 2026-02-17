@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf) format('truetype');
+}
+@font-face {
+    font-family: "woodmart-font";
+    src: url("fonts/woodmart-font-3-400.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}

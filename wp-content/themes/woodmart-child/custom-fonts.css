@@ -1,0 +1,18 @@
+/* /wp-content/themes/woodmart-child/custom-fonts.css */
+@font-face {
+    font-family: 'woodmart-font';
+    src: url('/wp-content/themes/woodmart/fonts/woodmart-font-3-400.woff2') format('woff2'),
+         url('/wp-content/themes/woodmart/fonts/woodmart-font-3-400.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* You can also include other font weights if available */
+@font-face {
+    font-family: 'woodmart-font';
+    src: url('/wp-content/themes/woodmart/fonts/woodmart-font-3-700.woff2') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
